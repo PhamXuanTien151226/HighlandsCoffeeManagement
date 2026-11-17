@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HighlandsCoffee.BLL/HighlandsCoffee.BLL.csproj" />
+  <Project Path="HighlandsCoffee.DAL/HighlandsCoffee.DAL.csproj" />
+  <Project Path="HighlandsCoffee.Models/HighlandsCoffee.Models.csproj" />
+  <Project Path="HighlandsCoffee.UI/HighlandsCoffee.UI.csproj" Id="d0264d96-fbbf-4cda-a28a-3ce447ca83a4" />
+</Solution>
